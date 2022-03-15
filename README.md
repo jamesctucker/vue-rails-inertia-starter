@@ -4,4 +4,6 @@
 2. `rails db:create`
 3. `foreman start`
 
-**Todo**: Add instructions for replacing starter defaults
+**Todos**: 
+- Add instructions for replacing starter defaults
+- Remove current remote origin/git history?
